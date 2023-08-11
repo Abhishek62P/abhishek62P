@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Prajapati 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhishek62p@gmail.com
 
