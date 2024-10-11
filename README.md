@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhishek62p@gmail.com
 <br><br>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+<br>
 <!---
 abhishek62P/abhishek62P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
